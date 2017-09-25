@@ -1,2 +1,0 @@
-# stracker
-Canglong island
