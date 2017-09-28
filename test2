@@ -3,7 +3,7 @@ edit remote
 iedit local
 add file at 09-25
 edit local
-edit local2
+jjjedit local2
 remote 003
 edit-remote
 vvvv
