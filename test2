@@ -2,5 +2,6 @@ remote 004
 edit remote
 iedit local
 add file at 09-25
+edit local
 edit local2
 remote 003
